@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Magic Recipe</string>
+    <string name="text_enter_ingredients">Enter Ingredients  name :</string>
+    <string name="text_hint_ingre">Eg: Onion,garlic</string>
+</resources>

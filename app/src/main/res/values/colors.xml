@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#40c0d0</color>
+    <color name="colorPrimaryDark">#40c0d0</color>
+    <color name="colorAccent">#40c0d0</color>
+    <array name="progress_colors">
+        <item>#40c0d0</item>
+
+    </array>
+    <color name="mainbackground">#40c0d0</color>
+    <color name="button_filled">#3371a6</color>
+</resources>
