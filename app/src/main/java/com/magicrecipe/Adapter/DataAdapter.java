@@ -1,4 +1,4 @@
-package com.magicrecipe;
+package com.magicrecipe.Adapter;
 
 import android.app.Dialog;
 import android.content.Context;
@@ -12,6 +12,9 @@ import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
+import com.magicrecipe.Helper.CircleImageView;
+import com.magicrecipe.R;
+import com.magicrecipe.Model.SubDetails;
 
 import java.util.ArrayList;
 

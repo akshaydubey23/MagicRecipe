@@ -1,10 +1,11 @@
-package com.magicrecipe;
+package com.magicrecipe.Helper;
 
 import android.app.Dialog;
 import android.content.Context;
 import android.view.Window;
 import android.widget.RelativeLayout;
 
+import com.magicrecipe.R;
 import com.rey.material.widget.ProgressView;
 
 

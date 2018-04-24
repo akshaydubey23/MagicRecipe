@@ -1,4 +1,4 @@
-package com.magicrecipe;
+package com.magicrecipe.Activities;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -10,6 +10,12 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.jakewharton.retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory;
+import com.magicrecipe.Adapter.DataAdapter;
+import com.magicrecipe.Helper.MyDialog_Progress;
+import com.magicrecipe.R;
+import com.magicrecipe.Model.Recepies;
+import com.magicrecipe.Interface.RequestInterface;
+import com.magicrecipe.Model.SubDetails;
 
 import java.util.ArrayList;
 import java.util.List;

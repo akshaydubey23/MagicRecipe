@@ -1,4 +1,4 @@
-package com.magicrecipe;
+package com.magicrecipe.Model;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

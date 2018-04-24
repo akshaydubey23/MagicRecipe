@@ -1,8 +1,9 @@
-package com.magicrecipe;
+package com.magicrecipe.Interface;
+
+import com.magicrecipe.Model.Recepies;
 
 import io.reactivex.Observable;
 import retrofit2.http.GET;
-import retrofit2.http.Path;
 import retrofit2.http.Query;
 
 /**

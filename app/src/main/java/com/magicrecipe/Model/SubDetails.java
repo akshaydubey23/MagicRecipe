@@ -1,4 +1,4 @@
-package com.magicrecipe;
+package com.magicrecipe.Model;
 
 /**
  * Created by HP on 04/03/18.

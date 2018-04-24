@@ -1,4 +1,4 @@
-package com.magicrecipe;
+package com.magicrecipe.Helper;
 
 
 import android.content.Context;
